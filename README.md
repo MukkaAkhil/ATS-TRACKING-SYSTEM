@@ -1,1 +1,1 @@
-ATS Resume Analyzer is a Flask-based web application that helps job seekers evaluate their resumes against job descriptions using AI. The application uses the Groq API to provide detailed analysis and matching scores between resumes and job descriptions.
+ATS Resume Analyzer is a Flask-based web application that helps job seekers evaluate their resumes against job descriptions using AI. The application uses the Groq API to provide detailed analysis and matching scores between resumes and job descriptions.
